@@ -1,0 +1,4 @@
+apt-get install vim
+apt-get install clang
+apt-get install gcc
+apt-get install git
